@@ -6,6 +6,7 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
+# Hola mundo
 
 # Introduction to GitHub
 
@@ -35,6 +36,7 @@ In this course, you will:
 2. Commit a file
 3. Open a pull request
 4. Merge your pull request
+
 
 ### How to start this course
 
